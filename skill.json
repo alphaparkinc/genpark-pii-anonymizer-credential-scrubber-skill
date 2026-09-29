@@ -1,0 +1,20 @@
+{
+  "name": "genpark-pii-anonymizer-credential-scrubber-skill",
+  "version": "1.0.0",
+  "description": "High-performance PII and API secret token scrubber for prompt anonymization and data sanitization",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "pii-scrubber",
+    "anonymizer",
+    "data-sanitization",
+    "privacy",
+    "secret-scanner",
+    "python-standard-library",
+    "agent-skills",
+    "ai-safety",
+    "credential-protection",
+    "gdpr-compliance"
+  ]
+}
