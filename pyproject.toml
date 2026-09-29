@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-pii-anonymizer-credential-scrubber-skill"
+version = "1.0.0"
+description = "High-performance PII and API secret token scrubber for prompt anonymization and data sanitization"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
